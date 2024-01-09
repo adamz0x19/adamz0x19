@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a long-time computer person, seasoned full-stack developer and currently an independent contractor.
+I'm a long-time computer person, experienced full-stack developer and currently an independent contractor.
 
 Previously, I've:
  - Created large-scale (globally used) e-commerce software at INGKA (IKEA). If you've been to the website, code I've written *has* executed on your computer!
